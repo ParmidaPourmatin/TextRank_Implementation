@@ -33,3 +33,11 @@ And the following embedding models for English Language:
 
 we also have used HAZM library for tokenization and sentence segmentation for Persian Language and we implemented ROUGE metric for evaluation.
 
+## Dataset
+
+We have used the following dataset for training and evaluation:
+
+- XSUM Dataset - English(You can find it here: https://github.com/EdinburghNLP/XSum)
+- BBC News Summary Dataset - English (You can find it here: https://www.kaggle.com/datasets/pariza/bbc-news-summary) 
+- Mashregh News Summary Dataset - Persian (Due to the lack of dataset for Persian Language, we created our own dataset by scraping Mashregh News Website. You can find it in my Google Drive using this link: https://drive.google.com/drive/folders/1ycOu6f3427LHG1_xYK6ctAIpheYJMb20)
+
